@@ -1,4 +1,4 @@
-Game,Round,Ring Closing,Time Remaining,Time Stamp Value,Match Duration,Hit,Target,Target Team,Comments
+Game,Round,Ring Closing,Time Remaining,Time Stamp Value,Match Elapsed,Hit,Target,Target Team,Comments
 1,2,No,2:29,587,442,No,,,VS. Jewel Box
 1,2,No,2:03,613,468,No,,,
 1,2,No,1:04,673,528,Yes,Tsuna Nekota,Jewel Box,First friend lost: his CR Cup 10 teammate
@@ -45,5 +45,5 @@ Game,Round,Ring Closing,Time Remaining,Time Stamp Value,Match Duration,Hit,Targe
 5,3,No,1:16,7868,730,Yes,Ex Albio,AQF,
 5,3,Yes,0:00,7988,850,No,,,VS. Gorilla Transportation and Dekani9
 5,4,No,1:12,8026,888,No,,,
-6,1,Yes,1:14,9148,2010,Yes,Inui Shinichiro,InutoLion,Backup POV from Hira Hikari
-6,2,No,0:46,9348,2210,No,,,
+6,1,Yes,1:14,9148,350,Yes,Inui Shinichiro,InutoLion,Backup POV from Hira Hikari
+6,2,No,0:46,9348,550,No,,,
