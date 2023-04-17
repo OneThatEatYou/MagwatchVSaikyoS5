@@ -1,7 +1,7 @@
 # Data schema
-|                  | Description                                                                                                     | Type      |
+| Column Name      | Description                                                                                                     | Type      |
 |------------------|-----------------------------------------------------------------------------------------------------------------|-----------|
-| Day              | Scrim day number. Day 7 represents the tournament day.                                                          | `int`     |
+| Day              | Scrim day number. Day 7 represents the tournament day (generated based on file name during import)              | `int`     |
 | Game             | Game number of the day                                                                                          | `int`     |
 | Round            | Ring round in a game                                                                                            | `int`     |
 | Ring Closing     | `True` if ring is closing, `False` otherwise                                                                    | `boolean` |
